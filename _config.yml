@@ -1,0 +1,40 @@
+# Site settings
+title: Mukesh Yadav Pyatla
+logo: /assets/img/profile-3d.png
+email: my.pyatla2949@gmail.com
+description: >- 
+  Data Analyst specializing in Power BI and business intelligence solutions, 
+  transforming complex data into actionable insights.
+
+# Theme settings
+theme: jekyll-theme-minimal
+show_downloads: true
+
+# Custom 3D theme options
+sass:
+  style: compressed
+
+# Social links
+social_links:
+  linkedin: mukeshyadavpyatla
+  github: MukeshPyatla
+  portfolio: https://sites.mst.edu/pyatlamukeshyadav/
+
+# Analytics
+google_analytics: # your Google Analytics tracking ID
+
+# Additional settings for 3D elements
+custom_css: true
+animate_header: true
+particle_background: true
+
+# Navigation
+nav_links:
+  - title: Projects
+    url: /#projects
+  - title: Skills
+    url: /#skills
+  - title: Experience
+    url: /#experience
+  - title: Contact
+    url: /#contact
