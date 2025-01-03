@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukeshyadavpyatla/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/MukeshPyatla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=wordpress)](https://sites.mst.edu/pyatlamukeshyadav/](https://mukeshpyatla.github.io/Data-Analytics-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=wordpress)](https://mukeshpyatla.github.io/Data-Analytics-Portfolio/)
 
 ---
 
